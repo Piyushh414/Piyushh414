@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piyushh414 
 - 👀 I’m interested in Software Development, eSports.
-- 🌱 I’m currently learning Full stack Development
-- 💞️ I’m looking to collaborate on open source
+- 🌱 I’m currently learning Full stack Development.
+- 💞️ I’m looking to contribute to open source projects.
 - 📫 Reach me -  piyushsikarwar414@gmail.com
 
 <!---
